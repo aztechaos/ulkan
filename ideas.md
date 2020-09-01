@@ -6,3 +6,4 @@ Top Losers of the day.
 Global Market Stats.
 Nice graphs.
 Smooth animations.
+Live Data.
