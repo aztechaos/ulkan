@@ -7,3 +7,4 @@ Global Market Stats.
 Nice graphs.
 Smooth animations.
 Live Data.
+Create Watchlists.
