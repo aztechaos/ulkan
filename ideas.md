@@ -8,3 +8,4 @@ Nice graphs.
 Smooth animations.
 Live Data.
 Create Watchlists.
+Price Conversion feature.
